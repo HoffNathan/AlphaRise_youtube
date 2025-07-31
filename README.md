@@ -1,6 +1,6 @@
 # 📈 AlphaRise — Códigos dos Vídeos do YouTube
 
-OBS: Na pasta code ficam todos os códigos
+OBS: Na pasta [code] ficam todos os códigos
 ---
 Bem-vindo ao repositório oficial do canal [AlphaRise](https://youtube.com/@alphariseoficial), onde desmistificamos o mercado financeiro com modelos quantitativos, inteligência artificial e uma dose de realidade. Aqui você encontrará os códigos completos que usamos em nossos vídeos, prontos para estudo, testes e adaptação.
 
