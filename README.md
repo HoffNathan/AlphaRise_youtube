@@ -15,9 +15,3 @@ Nosso objetivo é democratizar o acesso a estratégias quantitativas robustas, i
 - 🤖 IA aplicada em tempo real
 - 🧠 Educação acessível para todos os níveis
 
----
-
-## 📁 Estrutura do Repositório
-
-Aqui ficará os códigos discutidos no youtube.
-
